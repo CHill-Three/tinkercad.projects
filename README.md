@@ -14,7 +14,7 @@ I hope you enjoy looking around!<br/>
 Resources for - Project 3: RGB LED<br/>
 [Code (RGBLed.ino)](https://github.com/CHill-Three/chill-three.github.io/blob/master/Arduino/Project%203:%20RGB%20LED/RGBLed.ino)<br/>
 
-<!-- Table of Contents (TABLE) -->
+<!-- Table of Contents (Programs & Descriptions) -->
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 2px solid black;
