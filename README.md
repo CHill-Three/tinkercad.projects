@@ -10,9 +10,9 @@ I hope you enjoy looking around!<br/>
 # Featured Project
 
 ### Project 3: RGB LED <a name="Project 3: RGB LED"></a>
-![RGBLed.gif](/Arduino/Project 3: RGB LED/RGBLed.gif)<br/>
+![RGBLed.gif](arduino.github.io/Arduino/Project 3: RGB LED/RGBLed.gif)<br/>
 Resources for - Project 3: RGB LED<br/>
-[Code (RGBLed.ino)](https://github.com/CHill-Three/chill-three.github.io/blob/master/Arduino/Project%203:%20RGB%20LED/RGBLed.ino)<br/>
+[Code (RGBLed.ino)](https://github.com/CHill-Three/arduino.github.io/blob/master/Arduino/Project%203:%20RGB%20LED/RGBLed.ino)<br/>
 
 <!-- Table of Contents (Programs & Descriptions) -->
 <style>
