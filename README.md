@@ -5,6 +5,15 @@
 # CHill-Three's github.io Projects Home Page
 Hey there! Welcome to my first repository created on (7/20/2020)<br/>
 I hope you enjoy looking around!<br/>
+
+<!-- Featured Project -->
+# Featured Project
+
+### Project 3: RGB LED <a name="Project 3: RGB LED"></a>
+![RGBLed.gif](/Arduino/Project 3: RGB LED/RGBLed.gif)<br/>
+Resources for - Project 3: RGB LED<br/>
+[Code (RGBLed.ino)](https://github.com/CHill-Three/chill-three.github.io/blob/master/Arduino/Project%203:%20RGB%20LED/RGBLed.ino)<br/>
+
 <!-- Table of Contents (TABLE) -->
 <style>
 .tablelines table, .tablelines td, .tablelines th {
