@@ -2,9 +2,9 @@
 <!-- 1). To break lines: do two spaces after the line or do <br/> -->
 
 <!-- Title -->
-# CHill-Three's github.io Projects Home Page
+# CHill-Three's github.io Projects Homepage
 Hey there! Welcome to my first repository created on (7/20/2020)<br/>
-This is the home page for my list of program repositorys.<br/>
+This is the homepage for my list of program repositorys.<br/>
 Scroll down below and click on a program to get started.<br/>
 Have fun!<br/>
 
