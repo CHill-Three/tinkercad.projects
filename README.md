@@ -32,7 +32,7 @@ Resources for - Project 3: RGB LED<br/>
 <!-- End of Table of Contents (Programs & Descriptions) -->
 
 <!-- Change Log List -->
-> #### Recent Change Log:
+> ## Recent Change Log:
 >
 >> - Added Project 4: Digital Inputs (7/29/2020)
 >> - Added featured product section (7/29/2020)
