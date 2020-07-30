@@ -29,3 +29,13 @@ Resources for - Project 3: RGB LED<br/>
 | [p5.js](https://chill-three.github.io/p5.js.github.io/) | This is a list of my completed projects using heavy inspiration from the starter projects featured on The Coding Train’s YouTube channel demonstrating p5.js. |
 
 {: .tablelines}
+<!-- End of Table of Contents (Programs & Descriptions) -->
+
+<!-- Change Log List -->
+> # Recent Change Log:
+>
+>> - Added Project 4: Digital Inputs (7/29/2020)
+>> - Added featured product section (7/29/2020)
+>> - Created program list & description (7/29/2020)
+>> - Added components required list (Section) (7/29/2020)
+>> - Added Preview .gifs for each project (7/29/2020)
