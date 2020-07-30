@@ -6,7 +6,6 @@
 Hey there! Welcome to my first repository created on (7/20/2020)<br/>
 This is the homepage for my list of program repositorys.<br/>
 Scroll down below and click on a program to get started.<br/>
-Have fun!<br/>
 
 <!-- Featured Project -->
 # Featured Project
@@ -37,5 +36,5 @@ Resources for - Project 3: RGB LED<br/>
 >> - Added Project 4: Digital Inputs (7/29/2020)
 >> - Added featured product section (7/29/2020)
 >> - Created program list & description (7/29/2020)
->> - Added components required list (Section) (7/29/2020)
+>> - Added components required list section (7/29/2020)
 >> - Added Preview .gifs for each project (7/29/2020)
