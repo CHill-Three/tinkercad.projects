@@ -25,7 +25,7 @@ Resources for - Project 3: RGB LED<br/>
 
 | Program List | Description |
 | :-: | --- |
-| [Arduino](https://chill-three.github.io/arduino.github.io/) | This is a list of my completed projects from the starter projects from Elegoo’s Arduino manuel |
+| [Arduino](https://chill-three.github.io/arduino.github.io/) | This is a list of my completed projects from the starter projects from Elegoo’s Arduino manuel. |
 | [p5.js](https://chill-three.github.io/p5.js.github.io/) | This is a list of my completed projects using heavy inspiration from the starter projects featured on The Coding Train’s YouTube channel demonstrating p5.js. |
 
 {: .tablelines}
