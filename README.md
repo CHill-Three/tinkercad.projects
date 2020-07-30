@@ -4,7 +4,9 @@
 <!-- Title -->
 # CHill-Three's github.io Projects Home Page
 Hey there! Welcome to my first repository created on (7/20/2020)<br/>
-I hope you enjoy looking around!<br/>
+This is the home page for my list of program repositorys.<br/>
+Scroll down below and click on a program to get started.<br/>
+Have fun!<br/>
 
 <!-- Featured Project -->
 # Featured Project
