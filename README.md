@@ -8,7 +8,7 @@ This is the homepage for my list of program repositorys.<br/>
 Scroll down below and click on a program to get started.<br/>
 
 <!-- Featured Project -->
-# Featured Project ✪
+# ⭐ Featured Project ⭐
 
 ### Project 3: RGB LED <a name="Project 3: RGB LED"></a>
 ![RGBLed.gif](arduino.github.io/Arduino/Project 3: RGB LED/RGBLed.gif)<br/>
