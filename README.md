@@ -18,7 +18,7 @@ Resources for - Project 3: RGB LED<br/>
 <!-- Table of Contents (Programs & Descriptions) -->
 <style>
 .tablelines table, .tablelines td, .tablelines th {
-        border: 2px solid black;
+        border: 2px solid blue;
         }
 </style>
 
