@@ -39,7 +39,6 @@ Scroll down below and click on a resource to explore more.<br/>
 | Website List | Description |
 | :-: | --- |
 | [Quizlet](https://quizlet.com/_8kbrko?x=1jqt&i=25cb42) | This is my Quizlet containing a list of common abbreviations used within Digital Circuits (Source Material: Digital Concepts Using Standard Integrated Circuits by Richard S. Sandige (1978)). |
-<!-- | [Ardublockly](https://ardublockly.embeddedlog.com/demo/#) | This is an Arduino focused visual programming editor which I find to be very helpful to individuals starting out in Arduino.| -->
 
 {: .tablelines}
 
