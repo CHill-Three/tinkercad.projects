@@ -33,8 +33,8 @@ Resources for - Project 3: RGB LED<br/>
 <!-- Change Log List -->
 > ## Recent Change Log:
 >
+>> - Added Project 9: Ultrasonic Sensor Module (8/5/2020)
+>> - Added Project 8: Servo (8/1/2020)
 >> - Added Project 4: Digital Inputs (7/29/2020)
 >> - Added featured product section (7/29/2020)
 >> - Created program list & description (7/29/2020)
->> - Added components required list section (7/29/2020)
->> - Added Preview .gifs for each project (7/29/2020)
