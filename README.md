@@ -29,7 +29,7 @@ Scroll down below and click on a resource to explore more.<br/>
 <!-- End of Table of Contents (Programs & Descriptions) -->
 
 <!-- Helpful learning resources (Programs & Descriptions) -->
-### Helpful learning resources
+## Helpful learning resources
 <style>
 .tablelines table, .tablelines td, .tablelines th {
         border: 2px solid blue;
