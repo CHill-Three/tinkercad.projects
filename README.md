@@ -4,8 +4,8 @@
 <!-- Title -->
 # CHill-Three's github.io Projects Homepage
 Hey there! Welcome to my first repository created on (7/20/2020)<br/>
-This is the homepage for my list of program repositorys.<br/>
-Scroll down below and click on a program to get started.<br/>
+This is the homepage for my list of program project repositorys and helpful resources.<br/>
+Scroll down below and click on a resource to explore more.<br/>
 
 <!-- Featured Project -->
 # ⭐ Featured Project ⭐
@@ -27,6 +27,23 @@ Scroll down below and click on a program to get started.<br/>
 
 {: .tablelines}
 <!-- End of Table of Contents (Programs & Descriptions) -->
+
+<!-- Helpful learning resources (Programs & Descriptions) -->
+### Helpful learning resources
+<style>
+.tablelines table, .tablelines td, .tablelines th {
+        border: 2px solid blue;
+        }
+</style>
+
+| Program List | Description |
+| :-: | --- |
+| [Arduino](https://chill-three.github.io/arduino.github.io/) | This is a list of my completed projects from the starter projects from Elegoo’s Arduino manuel. |
+| [p5.js](https://chill-three.github.io/p5.js.github.io/) | This is a list of my completed projects using heavy inspiration from the starter projects featured on The Coding Train’s YouTube channel demonstrating p5.js. |
+
+{: .tablelines}
+
+<!-- End of helpful learning resources (Programs & Descriptions) -->
 
 <!-- Change Log List -->
 > ## Recent Change Log:
