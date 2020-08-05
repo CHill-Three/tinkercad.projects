@@ -23,7 +23,8 @@ Scroll down below and click on a resource to explore more.<br/>
 | Program List | Description |
 | :-: | --- |
 | [Arduino](https://chill-three.github.io/arduino.github.io/) | This is a list of my completed projects from the starter projects from Elegoo’s Arduino manuel. |
-| [p5.js](https://chill-three.github.io/p5.js.github.io/) | This is a list of my completed projects using heavy inspiration from the starter projects featured on The Coding Train’s YouTube channel demonstrating p5.js. |
+| [MATLAB](https://chill-three.github.io/matlab.github.io/) | This is a list of my completed starter projects utilizing MATLAB. The MATLAB starter projects featured on this website are my attempts at previously assigned Java school assignments. |
+| [p5.js](https://chill-three.github.io/p5.js.github.io/) | This is a list of my completed projects utilizing p5.js. The p5.js starter projects featured on this website are my attempts at the starter projects featured on The Coding Train’s YouTube channel demonstrating p5.js. |
 
 {: .tablelines}
 <!-- End of Table of Contents (Programs & Descriptions) -->
