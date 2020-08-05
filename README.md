@@ -36,5 +36,5 @@ Resources for - Project 3: RGB LED<br/>
 >> - Added Project 9: Ultrasonic Sensor Module (8/5/2020)
 >> - Added Project 8: Servo (8/1/2020)
 >> - Added Project 7: Tilt Ball Switch (7/31/2020)
->> - Added featured product section (7/29/2020)
+>> - Created featured product section (7/29/2020)
 >> - Created program list & description (7/29/2020)
