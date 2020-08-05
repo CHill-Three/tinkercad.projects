@@ -8,7 +8,7 @@ This is the homepage for my list of program project repositorys and helpful reso
 Scroll down below and click on a resource to explore more.<br/>
 
 <!-- Featured Project -->
-# ⭐ Featured Project ⭐
+## ⭐ Featured Project ⭐
 
 ### Project 3: RGB LED <a name="Project 3: RGB LED"></a>
 ![RGBLed.gif](arduino.github.io/Arduino/Project 3: RGB LED/RGBLed.gif)<br/>
@@ -36,10 +36,10 @@ Scroll down below and click on a resource to explore more.<br/>
         }
 </style>
 
-| Program List | Description |
+| Website List | Description |
 | :-: | --- |
-| [Arduino](https://chill-three.github.io/arduino.github.io/) | This is a list of my completed projects from the starter projects from Elegoo’s Arduino manuel. |
-| [p5.js](https://chill-three.github.io/p5.js.github.io/) | This is a list of my completed projects using heavy inspiration from the starter projects featured on The Coding Train’s YouTube channel demonstrating p5.js. |
+| [Quizlet](https://quizlet.com/_8kbrko?x=1jqt&i=25cb42) | This is my Quizlet containing a list of common abbreviations used within Digital Circuits (Source Material: Digital Concepts Using Standard Integrated Circuits by Richard S. Sandige (1978)). |
+<!-- | [Ardublockly](https://ardublockly.embeddedlog.com/demo/#) | This is an Arduino focused visual programming editor which I find to be very helpful to individuals starting out in Arduino.| -->
 
 {: .tablelines}
 
