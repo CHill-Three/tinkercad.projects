@@ -10,8 +10,8 @@ Scroll down below and click on a resource to explore more.<br/>
 <!-- Featured Project -->
 ## ⭐ Featured Project ⭐
 
-### Project 3: RGB LED <a name="Project 3: RGB LED"></a>
-![RGBLed.gif](arduino.github.io/Arduino/Project 3: RGB LED/RGBLed.gif)<br/>
+### Project 4: Basic User Interface <a name="Project 4: Basic User Interface"></a>
+![FourProgExampleGUI.gif](matlab.github.io/MATLAB/Project 4: Basic User Interface/FourProgExampleGUI.gif)<br/>
 
 <!-- Table of Contents (Programs & Descriptions) -->
 <style>
