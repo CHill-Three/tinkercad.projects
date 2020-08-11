@@ -48,8 +48,8 @@ Scroll down below and click on a resource to explore more.<br/>
 <!-- Change Log List -->
 > ## Recent Change Log:
 >
->> - Added Project 9: Ultrasonic Sensor Module (8/5/2020)
->> - Added Project 8: Servo (8/1/2020)
->> - Added Project 7: Tilt Ball Switch (7/31/2020)
->> - Created featured project section (7/29/2020)
->> - Created program list & description (7/29/2020)
+>> - Added MATLAB - Project 4: Basic User Interface (8/11/2020)
+>> - Added MATLAB - Project 3A: Formatted Pascal's Triangle (8/8/2020)
+>> - Added Arduino - Project 9: Ultrasonic Sensor Module (8/5/2020)
+>> - Added Arduino - Project 8: Servo (8/1/2020)
+>> - Added Arduino - Project 7: Tilt Ball Switch (7/31/2020)
