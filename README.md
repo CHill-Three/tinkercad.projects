@@ -10,8 +10,8 @@ Scroll down below and click on a resource to explore more.<br/>
 <!-- Featured Project -->
 ## ⭐ Featured Project ⭐
 
-### Project 4: Basic User Interface (MATLAB) <a name="Project 4: Basic User Interface (MATLAB)"></a>
-![FourProgExampleGUI.gif](matlab.github.io/MATLAB/Project 4: Basic User Interface/FourProgExampleGUI.gif)<br/>
+### Project 1: Basic User Interface (MATLAB App Designer) <a name="Project 1: Basic User Interface (MATLAB)"></a>
+![FourProgExampleGUI.gif](matlab.github.io/MATLAB/APP DESIGNER - Project 1: Basic User Interface/FourProgExampleGUI.gif)<br/>
 
 <!-- Table of Contents (Programs & Descriptions) -->
 <style>
