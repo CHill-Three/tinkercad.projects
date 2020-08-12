@@ -48,7 +48,7 @@ Scroll down below and click on a resource to explore more.<br/>
 <!-- Change Log List -->
 > ## Recent Change Log:
 >
->> - Added MATLAB - Project 4: Basic User Interface (8/11/2020)
+>> - Added MATLAB App Designer - Project 1: Basic User Interface (8/11/2020)
 >> - Added MATLAB - Project 3A: Formatted Pascal's Triangle (8/8/2020)
 >> - Added Arduino - Project 9: Ultrasonic Sensor Module (8/5/2020)
 >> - Added Arduino - Project 8: Servo (8/1/2020)
