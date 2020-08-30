@@ -21,7 +21,7 @@ I hope you enjoy looking around!<br/>
 1. [Tinkercad Starter Education Projects](#Tinkercad Starter Education Projects)<br/>
   I. [Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties](#Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties)<br/>
   II. [Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property](#Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property)<br/>
-  II. [Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws](#Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws)<br/>
+  III. [Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws](#Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Tinkercad -->
