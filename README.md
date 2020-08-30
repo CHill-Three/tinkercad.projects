@@ -19,7 +19,7 @@ I hope you enjoy looking around!<br/>
 
 # Table of contents
 1. [Tinkercad Starter Education Projects](#Tinkercad Starter Education Projects)<br/>
-  1. [Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties](#Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties)<br/>
+  I. [Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties](#Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Tinkercad -->
