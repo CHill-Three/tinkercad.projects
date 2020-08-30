@@ -20,6 +20,7 @@ I hope you enjoy looking around!<br/>
 # Table of contents
 1. [Tinkercad Starter Education Projects](#Tinkercad Starter Education Projects)<br/>
   I. [Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties](#Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties)<br/>
+  II. [Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property](#Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property)<br/>
 <!-- Table of Contents (BODY) -->
 
 <!-- Tinkercad -->
@@ -31,4 +32,11 @@ This is a list of my completed projects using Tinkercad. Projects were used to r
 ![Part1.PNG](/Tinkercad/Laboratory 1: Boolean Algebra/Part 1 – Prove the Boolean Idempotent Properties/Part1.PNG)<br/>
 ![Part1.gif](/Tinkercad/Laboratory 1: Boolean Algebra/Part 1 – Prove the Boolean Idempotent Properties/Part1.gif)<br/>
 Resources for - Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties<br/>
-[Code for Part 1 (.brd file) (Laboratory 1 - TinkerCad (AND, OR GATE)_ Part 1 – Prove the Boolean Idempotent Properties.brd)](https://github.com/CHill-Three/Tinkercad/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties/Laboratory%201%20-%20TinkerCad%20(AND%2C%20OR%20GATE)_%20Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties.brd)<br/>
+[Code for Part I (.brd file) (Laboratory 1 - TinkerCad (AND, OR GATE)_ Part 1 – Prove the Boolean Idempotent Properties.brd)](https://github.com/CHill-Three/Tinkercad/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties/Laboratory%201%20-%20TinkerCad%20(AND%2C%20OR%20GATE)_%20Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties.brd)<br/>
+
+<!-- Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property (SUB-PARA) -->
+### Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property <a name="Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property"></a>
+![Part2.PNG](/Tinkercad/Laboratory 1: Boolean Algebra/Part 2 – Prove the OR Distributive Property/Part2.PNG)<br/>
+![Part2.gif](/Tinkercad/Laboratory 1: Boolean Algebra/Part 2 – Prove the OR Distributive Property/Part2.gif)<br/>
+Resources for - Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties<br/>
+[Code for Part II (.brd file) (Laboratory 1 - TinkerCad (OR Distributive Property)_ Part 2 – Prove the OR Distributive Property .brd)](https://github.com/CHill-Three/Tinkercad/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property/Laboratory%201%20-%20TinkerCad%20(OR%20Distributive%20Property)_%20Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property%20.brd)<br/>
