@@ -30,22 +30,22 @@ This is a list of my completed projects using Tinkercad. Projects were used to r
 
 <!-- Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties (SUB-PARA) -->
 ### Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties <a name="Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties"></a>
-![Part1.PNG](/Tinkercad/Laboratory 1: Boolean Algebra/Part 1 – Prove the Boolean Idempotent Properties/Part1.PNG)<br/>
-![Part1.gif](/Tinkercad/Laboratory 1: Boolean Algebra/Part 1 – Prove the Boolean Idempotent Properties/Part1.gif)<br/>
+![Part1.PNG](/tinkercad.github.io/Laboratory 1: Boolean Algebra/Part 1 – Prove the Boolean Idempotent Properties/Part1.PNG)<br/>
+![Part1.gif](/tinkercad.github.io/Laboratory 1: Boolean Algebra/Part 1 – Prove the Boolean Idempotent Properties/Part1.gif)<br/>
 Resources for - Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties<br/>
-[Code for Part I (.brd file) (Laboratory 1 - TinkerCad (AND, OR GATE)_ Part 1 – Prove the Boolean Idempotent Properties.brd)](https://github.com/CHill-Three/Tinkercad/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties/Laboratory%201%20-%20TinkerCad%20(AND%2C%20OR%20GATE)_%20Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties.brd)<br/>
+[Code for Part I (.brd file) (Laboratory 1 - TinkerCad (AND, OR GATE)_ Part 1 – Prove the Boolean Idempotent Properties.brd)](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties/Laboratory%201%20-%20TinkerCad%20(AND%2C%20OR%20GATE)_%20Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties.brd)<br/>
 
 <!-- Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property (SUB-PARA) -->
 ### Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property <a name="Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property"></a>
-![Part2.PNG](/Tinkercad/Laboratory 1: Boolean Algebra/Part 2 – Prove the OR Distributive Property/Part2.PNG)<br/>
-![Part2.gif](/Tinkercad/Laboratory 1: Boolean Algebra/Part 2 – Prove the OR Distributive Property/Part2.gif)<br/>
+![Part2.PNG](/tinkercad.github.io/Laboratory 1: Boolean Algebra/Part 2 – Prove the OR Distributive Property/Part2.PNG)<br/>
+![Part2.gif](/tinkercad.github.io/Laboratory 1: Boolean Algebra/Part 2 – Prove the OR Distributive Property/Part2.gif)<br/>
 Resources for - Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property<br/>
-[Code for Part II (.brd file) (Laboratory 1 - TinkerCad (OR Distributive Property)_ Part 2 – Prove the OR Distributive Property .brd)](https://github.com/CHill-Three/Tinkercad/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property/Laboratory%201%20-%20TinkerCad%20(OR%20Distributive%20Property)_%20Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property%20.brd)<br/>
+[Code for Part II (.brd file) (Laboratory 1 - TinkerCad (OR Distributive Property)_ Part 2 – Prove the OR Distributive Property .brd)](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property/Laboratory%201%20-%20TinkerCad%20(OR%20Distributive%20Property)_%20Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property%20.brd)<br/>
 
 
 <!-- Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws (SUB-PARA) -->
 ### Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws <a name="Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws"></a>
-![Part3.PNG](/Tinkercad/Laboratory 1: Boolean Algebra/Part 3 – Prove One of deMorgan’s Laws/Part3.PNG)<br/>
-![Part3.gif](/Tinkercad/Laboratory 1: Boolean Algebra/Part 3 – Prove One of deMorgan’s Laws/Part3.gif)<br/>
+![Part3.PNG](/tinkercad.github.io/Laboratory 1: Boolean Algebra/Part 3 – Prove One of deMorgan’s Laws/Part3.PNG)<br/>
+![Part3.gif](/tinkercad.github.io/Laboratory 1: Boolean Algebra/Part 3 – Prove One of deMorgan’s Laws/Part3.gif)<br/>
 Resources for - Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws<br/>
-[Code for Part III (.brd file) (Laboratory 1 - TinkerCad (DeMorgan's Law)_ Part 3 – Prove One of deMorgan’s Laws.brd)](https://github.com/CHill-Three/Tinkercad/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%203%20%E2%80%93%20Prove%20One%20of%20deMorgan%E2%80%99s%20Laws/Laboratory%201%20-%20TinkerCad%20(DeMorgan's%20Law)_%20Part%203%20%E2%80%93%20Prove%20One%20of%20deMorgan%E2%80%99s%20Laws.brd)<br/>
+[Code for Part III (.brd file) (Laboratory 1 - TinkerCad (DeMorgan's Law)_ Part 3 – Prove One of deMorgan’s Laws.brd)](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%203%20%E2%80%93%20Prove%20One%20of%20deMorgan%E2%80%99s%20Laws/Laboratory%201%20-%20TinkerCad%20(DeMorgan's%20Law)_%20Part%203%20%E2%80%93%20Prove%20One%20of%20deMorgan%E2%80%99s%20Laws.brd)<br/>
