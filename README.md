@@ -49,3 +49,10 @@ Resources for - Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distribut
 ![Part3.gif](/tinkercad.github.io/Laboratory 1: Boolean Algebra/Part 3 – Prove One of deMorgan’s Laws/Part3.gif)<br/>
 Resources for - Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws<br/>
 [Code for Part III (.brd file) (Laboratory 1 - TinkerCad (DeMorgan's Law)_ Part 3 – Prove One of deMorgan’s Laws.brd)](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%203%20%E2%80%93%20Prove%20One%20of%20deMorgan%E2%80%99s%20Laws/Laboratory%201%20-%20TinkerCad%20(DeMorgan's%20Law)_%20Part%203%20%E2%80%93%20Prove%20One%20of%20deMorgan%E2%80%99s%20Laws.brd)<br/>
+
+<!-- Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor (SUB-PARA) -->
+### Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor <a name="Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor"></a>
+![Lab2P1.PNG](/tinkercad.github.io/Laboratory 2: Build a 4-bit Adder-Subtractor/Part 1 – Build a 4-bit Adder-Subtractor/Lab2P1.PNG)<br/>
+![Lab2P1.gif](/tinkercad.github.io/Laboratory 2: Build a 4-bit Adder-Subtractor/Part 1 – Build a 4-bit Adder-Subtractor/Lab2P1.gif)<br/>
+Resources for - Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor<br/>
+[Code for Part I (.brd file) (Laboratory 2 - TinkerCad (4-bit Adder-Subtractor)_ Part 1 – Build a 4-bit Adder-Subtractor.brd)](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder-Subtractor/Laboratory%202_%20Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder_Subtractor.brd)<br/>
