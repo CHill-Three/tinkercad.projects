@@ -3,7 +3,7 @@
 
 <!-- Title -->
 # CHill-Three's github.io Tinkercad Page
-Hey there! Welcome to my Tinkercad repository created on (8/28/2020)<br/>
+Hey there! Welcome to my Tinkercad repository created on August 28, 2020.<br/>
 I hope you enjoy looking around!<br/>
 <!-- Table of Contents (TITLES) -->
 
@@ -26,7 +26,7 @@ I hope you enjoy looking around!<br/>
 
 <!-- Tinkercad -->
 ## Tinkercad Starter Education Projects <a name="Tinkercad Starter Education Projects"></a>
-This is a list of my completed projects using Tinkercad. Projects were used to receive credit from an educational institution.
+Tinkercad is a free and online educational resource for computer-aided design (CAD) purposes, where users can create and/or modify electronic designs. This is a list of my completed projects using Tinkercad. Projects were used to receive credit from an educational institution. I hope you enjoy!
 
 <!-- Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties (SUB-PARA) -->
 ### Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties <a name="Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties"></a>
