@@ -3,7 +3,7 @@
 
 <!-- Title -->
 # CHill-Three's github.io Tinkercad Page
-Hey there! Welcome to my Tinkercad repository created on August 28, 2020.<br/>
+Welcome to my Tinkercad repository created on August 28, 2020.<br/>
 <!-- Table of Contents (TITLES) -->
 
 <!-- Home Button (Home) -->
