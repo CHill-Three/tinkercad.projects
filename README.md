@@ -3,7 +3,9 @@ Welcome to my Tinkercad repository created on August 28, 2020.<br/>
 <!-- Table of Contents (TITLES) -->
 
 ## My Main Projects (Tinkercad Starter Education Projects)
-* [Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties/Laboratory%201%20-%20TinkerCad%20(AND%2C%20OR%20GATE)_%20Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties.brd) - Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties, prove the OR distributive property and, one of deMorgan's laws. Follow this link for the Part 1 .brd project file.
+* [Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties/Laboratory%201%20-%20TinkerCad%20(AND%2C%20OR%20GATE)_%20Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties.brd) 
+![Lab 1: Part 1](/tinkercad.github.io/Laboratory 1: Boolean Algebra/Part 2 – Prove the OR Distributive Property/Part2.PNG)
+Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties, prove the OR distributive property and, one of deMorgan's laws. Follow this link for the Part 1 .brd project file.
 
 * [Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property/Laboratory%201%20-%20TinkerCad%20(OR%20Distributive%20Property)_%20Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property%20.brd) - Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties and one of de Morgan's laws. Follow this link for the Part 2 .brd project file.
 
@@ -11,22 +13,6 @@ Welcome to my Tinkercad repository created on August 28, 2020.<br/>
 
 * [Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder-Subtractor/Laboratory%202_%20Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder_Subtractor.brd) - Utilizing chip circuit 74LS83, this lab intents to prove various theorys using the 4-bit binary full adders. Follow this link for the Part 1 .brd project file.
 
-<!-- Home Button (Home) -->
-<style>
-.tablelines table, .tablelines td, .tablelines th {
-        border: 2px solid black;
-        }
-</style>
-| :-: |
-| [Back to Homepage](https://chill-three.github.io/) |
-{: .tablelines}
-
-# Table of contents
-1. [Tinkercad Starter Education Projects](#Tinkercad Starter Education Projects)<br/>
-  I. [Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties](#Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties)<br/>
-  II. [Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property](#Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property)<br/>
-  III. [Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws](#Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws)<br/>
-<!-- Table of Contents (BODY) -->
 
 <!-- Tinkercad -->
 ## Tinkercad Starter Education Projects <a name="Tinkercad Starter Education Projects"></a>
