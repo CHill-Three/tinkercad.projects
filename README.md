@@ -1,10 +1,15 @@
-<!-- Quick Notes -->
-<!-- 1). To break lines: do two spaces after the line or do <br/> -->
-
-<!-- Title -->
-# CHill-Three's github.io Tinkercad Page
+## CHill-Three's github.io Tinkercad Page
 Welcome to my Tinkercad repository created on August 28, 2020.<br/>
 <!-- Table of Contents (TITLES) -->
+
+## My Main Projects (Tinkercad Starter Education Projects)
+* [Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties/Laboratory%201%20-%20TinkerCad%20(AND%2C%20OR%20GATE)_%20Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties.brd) - Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties, prove the OR distributive property and, one of deMorgan's laws. Follow this link for the Part 1 .brd project file.
+
+* [Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property/Laboratory%201%20-%20TinkerCad%20(OR%20Distributive%20Property)_%20Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property%20.brd) - Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties and one of de Morgan's laws. Follow this link for the Part 2 .brd project file.
+
+* [Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%203%20%E2%80%93%20Prove%20One%20of%20deMorgan%E2%80%99s%20Laws/Laboratory%201%20-%20TinkerCad%20(DeMorgan's%20Law)_%20Part%203%20%E2%80%93%20Prove%20One%20of%20deMorgan%E2%80%99s%20Laws.brd) - Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties and one of de Morgan's laws. Follow this link for the Part 3 .brd project file.
+
+* [Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder-Subtractor/Laboratory%202_%20Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder_Subtractor.brd) - Utilizing chip circuit 74LS83, this lab intents to prove various theorys using the 4-bit binary full adders. Follow this link for the Part 1 .brd project file.
 
 <!-- Home Button (Home) -->
 <style>
