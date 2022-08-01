@@ -6,7 +6,7 @@ Welcome to my Tinkercad repository created on August 28, 2020. Tinkercad is a fr
 ## [Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties/Laboratory%201%20-%20TinkerCad%20(AND%2C%20OR%20GATE)_%20Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties.brd)
 
 ![Lab 1: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/Part%201%20–%20Prove%20the%20Boolean%20Idempotent%20Properties/Part1.PNG?raw=true "Lab 1: Part 1 Image")
-#### Parts List (on Tinkercad):
+#### Lab 1 Parts List (on Tinkercad):
 * 4 5V power supplies
 * 4 breadboards
 * 9 slideswitches
