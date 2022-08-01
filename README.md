@@ -17,6 +17,11 @@ Welcome to my Tinkercad repository created on August 28, 2020. Tinkercad is a fr
 * 8 LEDs
 * 8 220Ω resistors
 
+#### Datasheets may be found at:
+* 74HC04 (INV) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+* 74HC08 (AND) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT08.pdf
+* 74HC32 (OR) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT32.pdf
+
 #### Description: 
 Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties, prove the OR distributive property and, one of deMorgan's laws. Follow the title link embedded for the Part 1 .brd project file.
 
@@ -35,6 +40,11 @@ Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boole
 * 8 LEDs
 * 8 220Ω resistors
 
+#### Datasheets may be found at:
+* 74HC04 (INV) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+* 74HC08 (AND) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT08.pdf
+* 74HC32 (OR) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT32.pdf
+
 #### Description:  
 Utilizing chip circuits 74HC08, 74HC04 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties and one of de Morgan's laws. Follow the title link embedded for the Part 2 .brd project file.
 
@@ -52,6 +62,11 @@ Utilizing chip circuits 74HC08, 74HC04 and a 74HC32, this lab intents to prove t
 * 4 74HC32s & datasheet*
 * 8 LEDs
 * 8 220Ω resistors
+
+#### Datasheets may be found at:
+* 74HC04 (INV) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+* 74HC08 (AND) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT08.pdf
+* 74HC32 (OR) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT32.pdf
 
 #### Description: 
 Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties and one of de Morgan's laws. Follow the title link embedded for the Part 3 .brd project file.
