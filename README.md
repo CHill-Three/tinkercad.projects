@@ -171,4 +171,22 @@ Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC
 #### Description: 
 Utilizing basic I2C Communication Protocol and C/C++ code, this lab intents to display the basics of I2C Communication Protocol. Follow the title link embedded for the Part 1 .brd project file.
 
-#### [Link for C/C++ code used within Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20Code) 
+#### [Link for C/C++ code used within Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20Code)
+
+<!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
+## [Laboratory 3: Part 2 – Generate Random Numbers and Print them to the Serial Monitor utilizing I2C Communication](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%202%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication/Laboratory%203_%20I2C%20Communication_%20Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor.brd) 
+
+![Lab 3: Part 2 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%202%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication.PNG?raw=true "Lab 3: Part 2 Image")
+#### Lab 3 Parts List (on Tinkercad):
+* 2 Arduino UNO R3s with provided power sources
+* 1 button
+
+* 9 LEDs
+* 2 220Ω resistors
+
+#### Description: 
+Utilizing basic I2C Communication Protocol and C/C++ code, this lab intents to display the basics of I2C Communication Protocol. Follow the title link embedded for the Part 1 .brd project file.
+
+#### [Link for C/C++ Master Arduino code used within Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%202%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication/Master%20Arduino%20Code)
+#### [Link for C/C++ Slave Arduino code used within Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%202%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication/Slave%20Arduino%20Code) 
+
