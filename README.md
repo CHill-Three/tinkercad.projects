@@ -155,4 +155,20 @@ Datasheets may be found at:
 * Note: There is an error in Fig. 3 of the 74HC283 (4-bit adder) document. Use Fig. 1 or Fig. 2.
 
 #### Description: 
+Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC283 this lab intents to prove various theories using these 4-bit binary chips. Follow the title link embedded for the Part 2 .brd project file.
+
+<!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
+## [Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHillThree/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%201%20%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Pushbutton.brd) 
+
+![Lab 3: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor.PNG?raw=true "Lab 3: Part 1 Image")
+#### Lab 2 Parts List (on Tinkercad):
+* 2 Arduino R3s with provided power sources
+* 1 button
+
+* 9 LEDs
+* 2 220Ω resistors
+
+#### Description: 
 Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC283 this lab intents to prove various theories using these 4-bit binary chips. Follow the title link embedded for the Part 1 .brd project file.
+
+#### [Link for code used within Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHillThree/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%201%20%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20Code) 
