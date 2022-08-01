@@ -70,6 +70,29 @@ Utilizing chip circuits 74HC08, 74HC04 and a 74HC32, this lab intents to prove t
 
 #### Description: 
 Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties and one of de Morgan's laws. Follow the title link embedded for the Part 3 .brd project file.
+
+<!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
+## [Laboratory 1: Boolean Algebra: EXTRA – Build the Minimized Circuit: y = a'bd' + bc + bd'](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%201:%20Boolean%20Algebra/EXTRA%20%20Build%20the%20Minimized%20Circuit:%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/Part%201%20%20Build%20the%20Minimized%20Circuit_%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'.brd) 
+
+![Lab 1: Extra Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/EXTRA%20–%20Build%20the%20Minimized%20Circuit%3A%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/Build%20the%20Minimized%20Circuit.PNG?raw=true "Lab 1: Extra Image")
+#### Lab 1 Parts List (on Tinkercad):
+* 4 5V power supplies
+* 4 breadboards
+* 9 slideswitches
+
+* 1 74HC04 & datasheet*
+* 4 74HC08s & datasheet*
+* 4 74HC32s & datasheet*
+* 8 LEDs
+* 8 220Ω resistors
+
+#### Datasheets may be found at:
+* 74HC04 (INV) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+* 74HC08 (AND) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT08.pdf
+* 74HC32 (OR) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT32.pdf
+
+#### Description: 
+Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties and one of de Morgan's laws. Follow the title link embedded for the Part 3 .brd project file.
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder-Subtractor/Laboratory%202_%20Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder_Subtractor.brd) 
 
