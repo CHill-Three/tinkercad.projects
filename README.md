@@ -124,3 +124,35 @@ Datasheets may be found at:
 
 #### Description: 
 Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC283 this lab intents to prove various theories using these 4-bit binary chips. Follow the title link embedded for the Part 1 .brd project file.
+
+<!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
+## [Laboratory 2: Part 2 - Build a 3-input NOR from 2-input NORs](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs.brd) 
+
+![Lab 2: Part 2 Image](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs/Build%20a%203-input%20NOR%20from%202-input%20NORs.PNG?raw=true "Lab 2: Part 2 Image")
+#### Lab 2 Parts List (on Tinkercad):
+* 4 5V power supplies
+* 4 breadboards
+* 9 slideswitches
+
+* 1 74HC02 & datasheet*
+* 1 74HC04 & datasheet*
+* 1 74HC08 & datasheet*
+* 1 74HC11 & datasheet*
+* 1 74HC32 & datasheet*
+* 1 74HC86 & datasheet*
+* 1 74HC283 & datasheet*
+* 8 LEDs
+* 8 220Ω resistors
+
+Datasheets may be found at:
+* 74HC02 (NOR2) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT02.pdf
+* 74HC04 (INV) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT04.pdf
+* 74HC08 (AND2) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT08.pdf
+* 74HC11 (AND3) - https://www.alldatasheet.com/datasheet-pdf/pdf/15528/PHILIPS/74HC11.html
+* 74HC32 (OR2) - https://assets.nexperia.com/documents/data-sheet/74HC_HCT32.pdf
+* 74HC86 (XOR2) - https://html.alldatasheet.com/html-pdf/15668/PHILIPS/74HC86/995/4/74HC86.html
+* 74HC283 (4-bit adder) - http://www.farnell.com/datasheets/1846165.pdf
+* Note: There is an error in Fig. 3 of the 74HC283 (4-bit adder) document. Use Fig. 1 or Fig. 2.
+
+#### Description: 
+Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC283 this lab intents to prove various theories using these 4-bit binary chips. Follow the title link embedded for the Part 1 .brd project file.
