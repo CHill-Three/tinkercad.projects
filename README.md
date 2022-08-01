@@ -7,7 +7,7 @@ Welcome to my Tinkercad repository created on August 28, 2020. Tinkercad is a fr
 
 ![Lab 1: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/Part%201%20–%20Prove%20the%20Boolean%20Idempotent%20Properties/Part1.PNG?raw=true "Lab 1: Part 1 Image")
 
-### Description: 
+#### Description: 
 Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties, prove the OR distributive property and, one of deMorgan's laws. Follow the title link embedded for the Part 1 .brd project file.
 
 
