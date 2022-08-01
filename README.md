@@ -169,6 +169,6 @@ Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC
 * 2 220Ω resistors
 
 #### Description: 
-Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC283 this lab intents to prove various theories using these 4-bit binary chips. Follow the title link embedded for the Part 1 .brd project file.
+Utilizing basic I2C Communication Protocol and C/C++ code, this lab intents to display the basics of I2C Communication Protocol. Follow the title link embedded for the Part 1 .brd project file.
 
 #### [Link for code used within Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHillThree/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%201%20%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20Code) 
