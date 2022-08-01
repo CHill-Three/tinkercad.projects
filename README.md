@@ -12,7 +12,7 @@ Welcome to my Tinkercad repository created on August 28, 2020. Tinkercad is a fr
 <!-- DIVIDER -->
 ## [Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property/Laboratory%201%20-%20TinkerCad%20(OR%20Distributive%20Property)_%20Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property%20.brd) 
 
-![Lab 2: Part 2 Image](![image](https://user-images.githubusercontent.com/60999795/182051207-6112ca74-9332-4432-bc91-429b6955453b.png)?raw=true "Lab 2: Part 2 Image")
+![Lab 2: Part 2 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/Part%202%20–%20Prove%20the%20OR%20Distributive%20Property/Part2.PNG?raw=true "Lab 2: Part 2 Image")
 
 * Description: Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties and one of de Morgan's laws. Follow this link for the Part 2 .brd project file.
 
