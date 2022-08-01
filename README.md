@@ -94,7 +94,7 @@ Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boole
 #### Description: 
 Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties and one of de Morgan's laws. Follow the title link embedded for the Part 3 .brd project file.
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
-## [Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder-Subtractor/Laboratory%202_%20Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder_Subtractor.brd) 
+## [Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20–%20Build%20a%204-bit%20Adder-Subtractor/Laboratory%202_%20Part%201%20–%20Build%20a%204-bit%20Adder_Subtractor.brd) 
 
 ![Lab 2: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%202%3A%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20–%20Build%20a%204-bit%20Adder-Subtractor/Lab2P1.PNG?raw=true "Lab 2: Part 1 Image")
 #### Lab 2 Parts List (on Tinkercad):
@@ -158,7 +158,7 @@ Datasheets may be found at:
 Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC283 this lab intents to prove various theories using these 4-bit binary chips. Follow the title link embedded for the Part 2 .brd project file.
 
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
-## [Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHillThree/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%201%20%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Pushbutton.brd) 
+## [Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Pushbutton.brd) 
 
 ![Lab 3: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor.PNG?raw=true "Lab 3: Part 1 Image")
 #### Lab 3 Parts List (on Tinkercad):
