@@ -31,4 +31,4 @@ Welcome to my Tinkercad repository created on August 28, 2020. Tinkercad is a fr
 
 ![Lab 2: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%202%3A%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20–%20Build%20a%204-bit%20Adder-Subtractor/Lab2P1.PNG?raw=true "Lab 2: Part 1 Image")
 
-* Description: Utilizing chip circuits 74HC283 and 74HC86, this lab intents to prove various theorys using the 4-bit binary full adders. Follow this link for the Part 1 .brd project file.
+* Description: Utilizing chip circuits 74HC283 and 74HC86, this lab intents to prove various theories using the 4-bit binary full adders. Follow this link for the Part 1 .brd project file.
