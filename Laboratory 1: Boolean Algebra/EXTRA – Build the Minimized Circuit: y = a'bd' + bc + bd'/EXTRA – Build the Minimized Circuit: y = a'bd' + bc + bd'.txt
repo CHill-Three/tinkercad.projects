@@ -1,0 +1,1 @@
+EXTRA – Build the Minimized Circuit: y = a'bd' + bc + bd'
