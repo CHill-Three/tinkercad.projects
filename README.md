@@ -97,7 +97,7 @@ Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boole
 ## [Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder-Subtractor/Laboratory%202_%20Part%201%20%E2%80%93%20Build%20a%204-bit%20Adder_Subtractor.brd) 
 
 ![Lab 2: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%202%3A%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20–%20Build%20a%204-bit%20Adder-Subtractor/Lab2P1.PNG?raw=true "Lab 2: Part 1 Image")
-#### Lab 1 Parts List (on Tinkercad):
+#### Lab 2 Parts List (on Tinkercad):
 * 4 5V power supplies
 * 4 breadboards
 * 9 slideswitches
