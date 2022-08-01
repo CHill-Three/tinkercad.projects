@@ -123,4 +123,4 @@ Datasheets may be found at:
 * Note: There is an error in Fig. 3 of the 74HC283 (4-bit adder) document. Use Fig. 1 or Fig. 2.
 
 #### Description: 
-Utilizing chip circuits 74HC283 and 74HC86, this lab intents to prove various theories using the 4-bit binary full adders. Follow the title link embedded for the Part 1 .brd project file.
+Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC283 this lab intents to prove various theories using these 4-bit binary chips. Follow the title link embedded for the Part 1 .brd project file.
