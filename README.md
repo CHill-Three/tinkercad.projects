@@ -49,7 +49,7 @@ Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boole
 Utilizing chip circuits 74HC08, 74HC04 and a 74HC32, this lab intents to prove the Boolean Idempotent Properties and one of de Morgan's laws. Follow the title link embedded for the Part 2 .brd project file.
 
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
-## [Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%203%20%E2%80%93%20Prove%20One%20of%20deMorgan%E2%80%99s%20Laws/Laboratory%201%20-%20TinkerCad%20(DeMorgan's%20Law)_%20Part%203%20%E2%80%93%20Prove%20One%20of%20deMorgan%E2%80%99s%20Laws.brd) 
+## [Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%203%20–%20Prove%20One%20of%20deMorgan’s%20Laws/Laboratory%201%20-%20TinkerCad%20(DeMorgan's%20Law)_%20Part%203%20–%20Prove%20One%20of%20deMorgan’s%20Laws.brd) 
 
 ![Lab 1: Part 3 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/Part%203%20–%20Prove%20One%20of%20deMorgan’s%20Laws/Part3.PNG?raw=true "Lab 1: Part 3 Image")
 #### Lab 1 Parts List (on Tinkercad):
