@@ -74,7 +74,7 @@ Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boole
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 1: Boolean Algebra: EXTRA – Build the Minimized Circuit: y = a'bd' + bc + bd'](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%201:%20Boolean%20Algebra/EXTRA%20–%20Build%20the%20Minimized%20Circuit:%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/Part%201%20–%20Build%20the%20Minimized%20Circuit_%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'.brd) 
 
-![Lab 1: Extra Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/EXTRA%20–%20Build%20the%20Minimized%20Circuit%3A%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/Build%20the%20Minimized%20Circuit-1.png?raw=true "Lab 1: Extra Image")
+![Lab 1: Extra Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/EXTRA%20–%20Build%20the%20Minimized%20Circuit%3A%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/Build%20the%20Minimized%20Circuit-1.PNG?raw=true "Lab 1: Extra Image")
 #### Lab 1 Parts List (on Tinkercad):
 * 4 5V power supplies
 * 4 breadboards
