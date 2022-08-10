@@ -5,7 +5,7 @@ Welcome to my Tinkercad repository created on August 28, 2020. Tinkercad is a fr
 ## My Main Projects (Section One: Tinkercad Educational Starter Projects)
 ## [Laboratory 1: Boolean Algebra: Part 1 – Prove the Boolean Idempotent Properties](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties/Laboratory%201%20-%20TinkerCad%20(AND%2C%20OR%20GATE)_%20Part%201%20%E2%80%93%20Prove%20the%20Boolean%20Idempotent%20Properties.brd)
 
-![Lab 1: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/Part%201%20–%20Prove%20the%20Boolean%20Idempotent%20Properties/Part1.PNG?raw=true "Lab 1: Part 1 Image")
+![Lab 1: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/Part%201%20–%20Prove%20the%20Boolean%20Idempotent%20Properties/Part1-1.PNG?raw=true "Lab 1: Part 1 Image")
 #### Lab 1 Parts List (on Tinkercad):
 * 4 5V power supplies
 * 4 breadboards
@@ -28,7 +28,7 @@ Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boole
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 1: Boolean Algebra: Part 2 – Prove the OR Distributive Property](https://github.com/CHill-Three/tinkercad.github.io/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property/Laboratory%201%20-%20TinkerCad%20(OR%20Distributive%20Property)_%20Part%202%20%E2%80%93%20Prove%20the%20OR%20Distributive%20Property%20.brd) 
 
-![Lab 1: Part 2 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/Part%202%20–%20Prove%20the%20OR%20Distributive%20Property/Part2.PNG?raw=true "Lab 1: Part 2 Image")
+![Lab 1: Part 2 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/Part%202%20–%20Prove%20the%20OR%20Distributive%20Property/Part2-1.PNG?raw=true "Lab 1: Part 2 Image")
 #### Lab 1 Parts List (on Tinkercad):
 * 4 5V power supplies
 * 4 breadboards
@@ -51,7 +51,7 @@ Utilizing chip circuits 74HC08, 74HC04 and a 74HC32, this lab intents to prove t
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 1: Boolean Algebra: Part 3 – Prove One of deMorgan’s Laws](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%201:%20Boolean%20Algebra/Part%203%20–%20Prove%20One%20of%20deMorgan’s%20Laws/Laboratory%201%20-%20TinkerCad%20(DeMorgan's%20Law)_%20Part%203%20–%20Prove%20One%20of%20deMorgan’s%20Laws.brd) 
 
-![Lab 1: Part 3 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/Part%203%20–%20Prove%20One%20of%20deMorgan’s%20Laws/Part3.PNG?raw=true "Lab 1: Part 3 Image")
+![Lab 1: Part 3 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/Part%203%20–%20Prove%20One%20of%20deMorgan’s%20Laws/Part3-1.PNG?raw=true "Lab 1: Part 3 Image")
 #### Lab 1 Parts List (on Tinkercad):
 * 4 5V power supplies
 * 4 breadboards
@@ -74,7 +74,7 @@ Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boole
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 1: Boolean Algebra: EXTRA – Build the Minimized Circuit: y = a'bd' + bc + bd'](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%201:%20Boolean%20Algebra/EXTRA%20–%20Build%20the%20Minimized%20Circuit:%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/Part%201%20–%20Build%20the%20Minimized%20Circuit_%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'.brd) 
 
-![Lab 1: Extra Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/EXTRA%20–%20Build%20the%20Minimized%20Circuit%3A%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/Build%20the%20Minimized%20Circuit.PNG?raw=true "Lab 1: Extra Image")
+![Lab 1: Extra Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%201%3A%20Boolean%20Algebra/EXTRA%20–%20Build%20the%20Minimized%20Circuit%3A%20y%20%3D%20a'bd'%20%2B%20bc%20%2B%20bd'/Build%20the%20Minimized%20Circuit-1.PNG?raw=true "Lab 1: Extra Image")
 #### Lab 1 Parts List (on Tinkercad):
 * 4 5V power supplies
 * 4 breadboards
@@ -96,7 +96,7 @@ Utilizing chip circuits 74HC08 and a 74HC32, this lab intents to prove the Boole
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 2: Part 1 – Build a 4-bit Adder/Subtractor](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20–%20Build%20a%204-bit%20Adder-Subtractor/Laboratory%202_%20Part%201%20–%20Build%20a%204-bit%20Adder_Subtractor.brd) 
 
-![Lab 2: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%202%3A%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20–%20Build%20a%204-bit%20Adder-Subtractor/Lab2P1.PNG?raw=true "Lab 2: Part 1 Image")
+![Lab 2: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%202%3A%20Build%20a%204-bit%20Adder-Subtractor/Part%201%20–%20Build%20a%204-bit%20Adder-Subtractor/Lab2P1-1.PNG?raw=true "Lab 2: Part 1 Image")
 #### Lab 2 Parts List (on Tinkercad):
 * 4 5V power supplies
 * 4 breadboards
@@ -128,7 +128,7 @@ Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 2: Part 2 - Build a 3-input NOR from 2-input NORs](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs.brd) 
 
-![Lab 2: Part 2 Image](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs/Build%20a%203-input%20NOR%20from%202-input%20NORs.PNG?raw=true "Lab 2: Part 2 Image")
+![Lab 2: Part 2 Image](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs/Build%20a%203-input%20NOR%20from%202-input%20NORs-1.PNG?raw=true "Lab 2: Part 2 Image")
 #### Lab 2 Parts List (on Tinkercad):
 * 4 5V power supplies
 * 4 breadboards
@@ -160,7 +160,7 @@ Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Pushbutton.brd) 
 
-![Lab 3: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor.PNG?raw=true "Lab 3: Part 1 Image")
+![Lab 3: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor-1.PNG?raw=true "Lab 3: Part 1 Image")
 #### Lab 3 Parts List (on Tinkercad):
 * 2 Arduino UNO R3s with provided power sources
 * 1 button
@@ -176,7 +176,7 @@ Utilizing basic I2C Communication Protocol and C/C++ code, this lab intents to d
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 3: Part 2 – Generate Random Numbers and Print them to the Serial Monitor utilizing I2C Communication](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%202%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication/Laboratory%203_%20I2C%20Communication_%20Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor.brd) 
 
-![Lab 3: Part 2 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%202%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication.PNG?raw=true "Lab 3: Part 2 Image")
+![Lab 3: Part 2 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%202%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication-1.PNG?raw=true "Lab 3: Part 2 Image")
 #### Lab 3 Parts List (on Tinkercad):
 * 2 Arduino UNO R3s with provided power sources
 * 1 button
@@ -193,7 +193,7 @@ Utilizing basic I2C Communication Protocol and C/C++ code, this lab intents to d
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 3: Part 3 – Code Receiver Arduino to Receive Random Number and Display on LED Bank](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%203%20–%20Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank/Laboratory%203_%20I2C%20Communication_%20Part%203%20–%20Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank%20.brd) 
 
-![Lab 3: Part 3 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%203%20–%20Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank/Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank.PNG?raw=true "Lab 3: Part 3 Image")
+![Lab 3: Part 3 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%203%20–%20Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank/Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank-1.PNG?raw=true "Lab 3: Part 3 Image")
 #### Lab 3 Parts List (on Tinkercad):
 * 2 Arduino UNO R3s with provided power sources
 * 1 button
