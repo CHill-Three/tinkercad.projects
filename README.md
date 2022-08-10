@@ -128,7 +128,7 @@ Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 2: Part 2 - Build a 3-input NOR from 2-input NORs](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs.brd) 
 
-![Lab 2: Part 2 Image](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%202:%20Build%20a%204-bit%20Adder-Subtractor/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs/Build%20a%203-input%20NOR%20from%202-input%20NORs-1.png?raw=true "Lab 2: Part 2 Image")
+![Lab 2: Part 2 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%202%3A%20Build%20a%204-bit%20Adder-Subtractor/Part%202%20-%20Build%20a%203-input%20NOR%20from%202-input%20NORs/Build%20a%203-input%20NOR%20from%202-input%20NORs-1.PNG?raw=true "Lab 2: Part 2 Image")
 #### Lab 2 Parts List (on Tinkercad):
 * 4 5V power supplies
 * 4 breadboards
@@ -160,7 +160,7 @@ Utilizing chip circuits 74HC02, 74HC04, 74HC08, 74HC11, 74HC32, 74HC86 and, 74HC
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 3: Part 1 – Generate Random Numbers and Print them to the Serial Monitor](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Pushbutton.brd) 
 
-![Lab 3: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor-1.png?raw=true "Lab 3: Part 1 Image")
+![Lab 3: Part 1 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor-1.PNG?raw=true "Lab 3: Part 1 Image")
 #### Lab 3 Parts List (on Tinkercad):
 * 2 Arduino UNO R3s with provided power sources
 * 1 button
@@ -176,7 +176,7 @@ Utilizing basic I2C Communication Protocol and C/C++ code, this lab intents to d
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 3: Part 2 – Generate Random Numbers and Print them to the Serial Monitor utilizing I2C Communication](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%202%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication/Laboratory%203_%20I2C%20Communication_%20Part%201%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor.brd) 
 
-![Lab 3: Part 2 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%202%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication-1.png?raw=true "Lab 3: Part 2 Image")
+![Lab 3: Part 2 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%202%20–%20Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication/Generate%20Random%20Numbers%20and%20Print%20them%20to%20the%20Serial%20Monitor%20utilizing%20I2C%20Communication-1.PNG?raw=true "Lab 3: Part 2 Image")
 #### Lab 3 Parts List (on Tinkercad):
 * 2 Arduino UNO R3s with provided power sources
 * 1 button
@@ -193,7 +193,7 @@ Utilizing basic I2C Communication Protocol and C/C++ code, this lab intents to d
 <!-- DIVIDER ---------------------------------------------------------------------------------------------------------------------------------------------------------->
 ## [Laboratory 3: Part 3 – Code Receiver Arduino to Receive Random Number and Display on LED Bank](https://github.com/CHill-Three/tinkercad.projects/blob/master/Laboratory%203:%20I2C%20Communication/Part%203%20–%20Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank/Laboratory%203_%20I2C%20Communication_%20Part%203%20–%20Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank%20.brd) 
 
-![Lab 3: Part 3 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%203%20–%20Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank/Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank-1.png?raw=true "Lab 3: Part 3 Image")
+![Lab 3: Part 3 Image](https://raw.githubusercontent.com/CHill-Three/tinkercad.projects/master/Laboratory%203%3A%20I2C%20Communication/Part%203%20–%20Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank/Code%20Receiver%20Arduino%20to%20Receive%20Random%20Number%20and%20Display%20on%20LED%20Bank-1.PNG?raw=true "Lab 3: Part 3 Image")
 #### Lab 3 Parts List (on Tinkercad):
 * 2 Arduino UNO R3s with provided power sources
 * 1 button
